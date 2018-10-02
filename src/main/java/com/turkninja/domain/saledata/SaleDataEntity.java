@@ -1,6 +1,5 @@
-package com.turkninja.domain.movie;
+package com.turkninja.domain.saledata;
 
-import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;

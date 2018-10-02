@@ -1,7 +1,7 @@
 package com.turkninja.util;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.turkninja.domain.movie.SaleDataEntity;
+import com.turkninja.domain.saledata.SaleDataEntity;
 import com.turkninja.repositories.SaleDataElasticRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
